@@ -1,1 +1,26 @@
-/* Write the necessary CSS here! */ 
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Roboto&family=Roboto+Condensed&display=swap');
+
+body {
+    background-color: #d0cfcf;
+    font-size: 16px;
+}
+
+p {
+    font-family: 'Roboto';
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    text-shadow: 5px 5px 2px red;
+}
+
+h2 {
+    text-transform: capitalize;
+}
+
+section {
+    font-size: 1.5em;
+}
